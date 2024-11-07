@@ -4,8 +4,8 @@
 
 感谢GitHub。
 
-Hello OIers, I am OIer_DFLJ. As you can see, DFLJ-OS is a C++ pseudo-operating system. 
+Dear fellow OIers, I am OIer_DFLJ. As you can observe, DFLJ-OS is a pseudo-operating system written in C++.
 
-By default, all code and documentation are open-source under the GPLv3.0 license. (However, I reserve the right to change the open-source license at any time.)
+Unless otherwise specified, all the codes and documents are open source by default under the GPLv3.0 license. (Nevertheless, I reserve the right to change the open-source license at any time.)
 
-Thank you GitHub.
+Thanks to GitHub.
